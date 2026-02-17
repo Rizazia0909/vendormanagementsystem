@@ -1,0 +1,2 @@
+﻿- Add vendor detail page
+- Implement pagination

@@ -1,0 +1,3 @@
+﻿Project structure:
+- backendserver/
+- frontend/
